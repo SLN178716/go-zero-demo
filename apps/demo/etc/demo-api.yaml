@@ -1,0 +1,13 @@
+Name: demo-api
+Host: 0.0.0.0
+Port: 8888
+Nacos:
+  Client:
+    NamespaceId: a5a3b399-7251-44ae-b19b-c46e74eae3b8
+    Username: rosemary
+    Password: jinhetech
+    LogLevel: debug
+  Servers:
+    - IpAddr: 10.51.240.101
+      Port: 8848
+  DataId: 
